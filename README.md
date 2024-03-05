@@ -1,7 +1,7 @@
 # Synthetic Gaze Dataset with MetaHumans
 
 
-This is a standardized dataset of eye gaze synthetically generated using MetaHumans on Unreal Engine 5.
+This is a standardized dataset of eye gaze images synthetically generated using MetaHumans on Unreal Engine 5.
 Each directory contains 375 images of a MetaHuman character and a csv file. The csv file
 contains the following columns:
 
